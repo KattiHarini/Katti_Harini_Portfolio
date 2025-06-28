@@ -36,5 +36,5 @@ A modern portfolio website showcasing my skills as a Full-Stack Developer and Ma
 ## 🚀 Getting Started
 
 1. Clone the repository
-```bash
+\`\`\`bash
 git clone https://github.com/kattiharini/katti-portfolio.git
