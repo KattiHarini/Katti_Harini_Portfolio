@@ -8,12 +8,13 @@ A modern, responsive portfolio website showcasing my journey as a Full-Stack Dev
 
 ## 🌟 Live Demo
 
-**[View Live Portfolio →](your-deployed-url-here)**
+**[View Live Portfolio →](https://v0-portfolio-website-design-9vg2pfzgm.vercel.app)
+)**
 
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section](public/screenshots/hero.png)
+![Hero Section](https://ibb.co/xtyz5g6D)
 
 ### Projects Showcase
 ![Projects](public/screenshots/projects.png)
